@@ -1,0 +1,21 @@
+170011 Bueno Sánchez Jessica Elizabeth
+
+*para poder correrlo hay un .txt que es en donde se 
+ingresa el código para analizar. En el código
+se debe de poner la dirección del archivo.
+
+*el código debe de estar separado
+por espacios, por ejemplo:
+int = 1 ;
+
+*no sabemos si esta bien eso de que
+los que estan bien se vayan a una pila
+y los que estan mal a otra y muestre ambas.
+
+*Lo que hace es leer el código del txt
+y lo "examina" palabra por palabra.
+*determina si es correcto o incorrecto
+*lo agrega a una pila segun si fue o no correcto
+*le asigna también un lexema
+*muestra ambas pilas
+

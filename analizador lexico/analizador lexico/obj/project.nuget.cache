@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BI0BBdB/ubK9dPePUJEC9j6JkYCkzheFrcTmuOi1Um/pDnCPEbrxVYtH2isLAhZELUVc9Wuj5xuNu3xJLAuTNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admon\\Desktop\\1 Final Teoria\\Proyecto Final de Teoria Bien\\Proyecto Teoria\\analizador lexico\\analizador lexico\\analizador lexico.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admon\\.nuget\\packages\\fsharp.core\\4.7.2\\fsharp.core.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
